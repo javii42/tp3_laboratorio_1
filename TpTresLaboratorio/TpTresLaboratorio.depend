@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1508189431 source:c:\users\javier\documents\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508188617 c:\users\javier\documents\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\funciones.h
+
+1508189386 source:c:\users\javier\documents\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+

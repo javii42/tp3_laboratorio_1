@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1508189431 source:c:\users\javier\documents\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508188617 c:\users\javier\documents\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\funciones.h
+
+1508189386 source:c:\users\javier\documents\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508365674 source:e:\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508364494 e:\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\funciones.h
+
+1508367208 source:e:\laboratorio - 1 utn\tptreslaboratorio\tptreslaboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508534598 source:e:\laboratorio - 1 utn\tptreslaboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508535030 e:\laboratorio - 1 utn\tptreslaboratorio\funciones.h
+
+1508721970 source:e:\laboratorio - 1 utn\tptreslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Movies.h"
+
+1508509478 source:f:\laboratorio - 1 utn\tptreslaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1508461620 f:\laboratorio - 1 utn\tptreslaboratorio\funciones.h
+
+1508510068 source:f:\laboratorio - 1 utn\tptreslaboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508722980 source:e:\laboratorio - 1 utn\tptreslaboratorio\movies.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Movies.h"
+
+1508533150 e:\laboratorio - 1 utn\tptreslaboratorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508722328 e:\laboratorio - 1 utn\tptreslaboratorio\movies.h
+
