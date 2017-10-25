@@ -18,7 +18,7 @@ void initMovie(int* i)
 
 void addMovie(EMovie* m)
 {
-    movie[index]=m; // copiamos el puntero a la estrcutura cargada "p" a una posicion del array de punteros.
+    movie[index]=m; /
     index++;
     //  printf("INDEX: %d\n",index);
     // si no hay mas lugar, pedimos más memoria para hacer un array más grande
@@ -34,7 +34,7 @@ void addMovie(EMovie* m)
 
 EMovie* newMovie(void)
 {
-    EMovie* m = (EMovie*)malloc(sizeof(EMovie)); // creamos una estructura Person de forma dinámica
+    EMovie* m = (EMovie*)malloc(sizeof(EMovie)); 
     return m;
 }
 
