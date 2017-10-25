@@ -91,6 +91,10 @@ int main()
         case 5:
             seguir = 'n';
             break;
+        default:
+                printf("Error, opcion incorrecta. \n");
+                system("pause");
+                break;
         }
     }
     if(saveFile(m))
